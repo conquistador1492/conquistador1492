@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conquistador1492&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conquistador1492&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **conquistador1492/conquistador1492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
